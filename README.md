@@ -48,5 +48,9 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 
 <img width="228" alt="seamdemo3" src="https://user-images.githubusercontent.com/96831510/198919744-e8552217-2258-49da-b59d-58ae9ab8bc18.png">![seamdemo mov-low (1)](https://user-images.githubusercontent.com/96831510/198921113-0f51107e-3140-4f01-af14-0c7918aada3d.gif)
 
+#Wireframes
+[BONUS] Digital Wireframes & Mockups
+
+<img width="481" alt="wireframe1" src="https://user-images.githubusercontent.com/96831510/199065100-59908224-21cd-4129-aac3-c801f6c5160a.png"><img width="400" alt="wireframe2" src="https://user-images.githubusercontent.com/96831510/199065115-7c83268d-df94-41a1-b87c-31fa369fcd0e.png">
 
 
