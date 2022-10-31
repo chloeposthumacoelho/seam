@@ -8,7 +8,7 @@ a Collaborative, sustainable marketplace for students
 1. [Wireframes](#Wireframes)
 2. [Schema](#Schema)
 
-Seam
+
 
 
    
@@ -20,10 +20,11 @@ Spark is an iOS app that connects electric/hybrid cars to the nearing charging s
 A weather app which implements the ability for a user to see the weather in their specific location by using the OpenWeatherMap API.
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** Search app, Car app
+- **Category:** ecommerce, marketplace, product listing app
 - **Mobile:** Yes, native
-- **Story:** User is about to drive in their electric car when they notice that they need a quick charge. They open their Spark app to search for nearby stations so they can get going.
-- (A user wants to be directed to the weather based on their particular city. They want an efficient app that loads up the current weather conditions based on their location without much effort needed. )
+- **Story:** 
+- It is move out week and a student is considering what to do with their old textbooks and dorm desk which they do not need anymore. They realize they could sell it to another fellow student who may need it instead of throwing it in the local dump. They hope for a solution to this problem so another person could beenfit from what they don't feel the use to keep anymore. Enter Seam.
+- This user wants an efficient app that can allow them to list products they are considering selling based on a target audience without much effort needed. Their secondhand textbooks for example could be used by a student in an introductory class. Seam provides this by creating categories where users can place their listings and have a better chance of connecting with a student who may be interested in what they are selling. 
 - **Market:** User who drive electric cars and require frequent stops to charge
 - A on-the-go person who needs to be informed of the weather conditions in their city (rainy, cloudy, etc) to manage work and other responsiblities. 
 - **Habit:** User uses app weekly-monthly
