@@ -38,9 +38,10 @@ App Evaluation
 Category: Social networking / recommendation app
 Mobile: This app is targeted for mobile IOS devices, however it can easily be implemented as a web based application to allow accessibility to more users.
 Story: Allows users to get recommendations for places they would like to travel to based on the information they provide. The quality of these recommendations improve as more data is available. Users can also follow each other and share locations similar to other social media applications, but themed on travels.
-Market: Anyone can use this application, either just for the recommendaations, just as a social platform, or both.
-Habit: This app cxan be used as often as a user requires, it should be mobile and accessible to be used in many locations, since the purpose is for travel.
-Scope: Starting out, the main feature to build is the recommendation aspect. Having this can set it apart from just being another social media application and actually provide users with a reason to use the application. Being that the app is themed on travel, the social aspect is the next step, as users will naturally want to share their explorations. Having a way to add more data to the users likes will also benefit the recommender as it can then provide more accurate recommendations.
+Market: this app is targeted towards students, especially college-aged ones.
+Habit: This app was designed with accessibility in mind- though the user can enter the app at any time to check listings, it might be more common to pull it up during move out weeks and the end of the semester period.
+Scope: I primarily worked on implementing the listing by category features that I desired in Seam
+Starting out, the main feature to build is the recommendation aspect. Having this can set it apart from just being another social media application and actually provide users with a reason to use the application. Being that the app is themed on travel, the social aspect is the next step, as users will naturally want to share their explorations. Having a way to add more data to the users likes will also benefit the recommender as it can then provide more accurate recommendations.
 Product Spec
 1. User Stories (Required and Optional)
 Required Must-have Stories
