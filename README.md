@@ -47,7 +47,7 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 <img width="266" alt="seamscreen" src="https://user-images.githubusercontent.com/96831510/198918439-6932b62d-3b33-43ff-bcb2-afc7bee32424.png">
 
 <img width="228" alt="seamdemo3" src="https://user-images.githubusercontent.com/96831510/198919744-e8552217-2258-49da-b59d-58ae9ab8bc18.png">![seamdemo mov-low (1)](https://user-images.githubusercontent.com/96831510/198921113-0f51107e-3140-4f01-af14-0c7918aada3d.gif)
-
+## Wireframes
 #Wireframes
 [BONUS] Digital Wireframes & Mockups
 
