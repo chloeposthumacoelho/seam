@@ -16,12 +16,10 @@ a Collaborative, sustainable marketplace for students
 ### Description
 Seam is the sustainable marketplace made for students, by students. It is an iOS application which ensures that material that could be reused is not discarded but instead can be listed to a broader target audience: fellow college students.
 
-Spark is an iOS app that connects electric/hybrid cars to the nearing charging station using Chargetrip and Mapbox API's.
-A weather app which implements the ability for a user to see the weather in their specific location by using the OpenWeatherMap API.
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** ecommerce, marketplace, product listing app
-- **Mobile:** Yes, native
+- **Mobile:** it was created as an iOS app, using Swift and prototyped using Figma, however, can be implemented as a web-based application as well.
 - **Story:** 
 - It is move out week and a student is considering what to do with their old textbooks and dorm desk which they do not need anymore. They realize they could sell it to another fellow student who may need it instead of throwing it in the local dump. They hope for a solution to this problem so another person could beenfit from what they don't feel the use to keep anymore. Enter Seam.
 - This user wants an efficient app that can allow them to list products they are considering selling based on a target audience without much effort needed. Their secondhand textbooks for example could be used by a student in an introductory class. Seam provides this by creating categories where users can place their listings and have a better chance of connecting with a student who may be interested in what they are selling. 
