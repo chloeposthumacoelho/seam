@@ -53,4 +53,3 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 
 <img width="481" alt="wireframe1" src="https://user-images.githubusercontent.com/96831510/199065100-59908224-21cd-4129-aac3-c801f6c5160a.png"><img width="400" alt="wireframe2" src="https://user-images.githubusercontent.com/96831510/199065115-7c83268d-df94-41a1-b87c-31fa369fcd0e.png">
 
-
