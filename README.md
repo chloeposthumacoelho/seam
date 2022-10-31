@@ -4,15 +4,14 @@
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 2. [Schema](#Schema)
-![weatherapp (1)](https://user-images.githubusercontent.com/96831510/198899123-4554bb05-c2f8-4b05-b638-a60e9f679f1a.gif)
+
+Seam
 
 
-ideas:
-Once clicks app, user directed to weather in current (default) city (cloudy rainy, etc)
-   user can also swipe right to see weather in other (favorited or saved) city
    
 ## Overview
 ### Description
+Seam is the sustainable marketplace made for students, by students. It is an iOS application which ensures that material that could be reused is not discarded but instead can be listed to a broader target audience: fellow college students.
 
 Spark is an iOS app that connects electric/hybrid cars to the nearing charging station using Chargetrip and Mapbox API's.
 A weather app which implements the ability for a user to see the weather in their specific location by using the OpenWeatherMap API.
