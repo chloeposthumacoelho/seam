@@ -40,6 +40,20 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 
 ![IMG_6785 (1)](https://user-images.githubusercontent.com/96831510/198918651-8bc99a08-4711-4c13-b58b-3f838a58e0a3.jpg)
 
+### 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+* [users are able to favorite (heart) a product and add it to cart.] (DONE)
+* [user able to view a seller profile] (DONE)
+* [able to posting a listing] (DONE)
+* [seller location is listed] (DONE)
+* [UI for viewing sellers both by categories and through a main page showing all listings.] (DONE)
+
+**Optional Nice-to-have Stories**
+
+* [community feeds, ability to comment on a listing]
+* [user able to rate a seller or view ratings] (DONE)
 
 
 
