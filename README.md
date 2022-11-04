@@ -42,7 +42,11 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 
 ![IMG_6785 (1)](https://user-images.githubusercontent.com/96831510/198918651-8bc99a08-4711-4c13-b58b-3f838a58e0a3.jpg)
 
+## Product Spec
+
 ### 1. User Stories (Required and Optional)
+
+
 
 **Required Must-have Stories**
 
