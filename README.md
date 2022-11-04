@@ -67,7 +67,8 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 #Wireframes
 [BONUS] Digital Wireframes & Mockups
 
-<img width="481" alt="wireframe1" src="https://user-images.githubusercontent.com/96831510/199065100-59908224-21cd-4129-aac3-c801f6c5160a.png"><img width="400" alt="wireframe2" src="https://user-images.githubusercontent.com/96831510/199065115-7c83268d-df94-41a1-b87c-31fa369fcd0e.png"><img width="482" alt="mockup4" src="https://user-images.githubusercontent.com/96831510/199095307-77e434ff-08d5-4369-b3d7-a3a03fb3ef8b.png">
+<img width="481" alt="wireframe1" src="https://user-images.githubusercontent.com/96831510/199065100-59908224-21cd-4129-aac3-c801f6c5160a.png"><img width="400" alt="wireframe2" src="https://user-images.githubusercontent.com/96831510/199065115-7c83268d-df94-41a1-b87c-31fa369fcd0e.png"><img width="482" alt="mockup4" src="https://user-images.githubusercontent.com/96831510/199095307-77e434ff-08d5-4369-b3d7-a3a03fb3ef8b.png">![98E00F08-C4AA-4FF0-A99C-65F751B07932](https://user-images.githubusercontent.com/96831510/199988054-310be4e4-e6b0-46d4-9e50-d0f591e072c5.jpeg)
+
 
 
 
