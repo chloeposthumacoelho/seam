@@ -79,6 +79,8 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 <img width="474" alt="mockup8" src="https://user-images.githubusercontent.com/96831510/199101239-429b55e1-7e8a-4328-a152-cb922659bdfc.png"><img width="320" alt="mockup9" src="https://user-images.githubusercontent.com/96831510/199101266-2c078ea4-9eb4-432b-97d9-50197d3c278c.png">![D1CF0B7E-CD3F-449D-AB0C-5D12A1A4228C](https://user-images.githubusercontent.com/96831510/199581075-05b2d04a-8fe8-442c-8a31-dffc81c0e3b9.jpeg)![FD300113-F682-40E2-ABB9-DEAEA918A1C0_1_105_c](https://user-images.githubusercontent.com/96831510/199590028-dac299b7-c6d9-44ba-aa88-c67e73ced4e4.jpeg)
 
 
+<img width="514" alt="seam11" src="https://user-images.githubusercontent.com/96831510/200144452-6f962234-49ea-4d39-9ed6-cbf7c9f2bb01.png">
 
+![Uploading figma12.png…]()
 
 
