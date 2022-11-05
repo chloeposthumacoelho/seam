@@ -81,6 +81,8 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 
 <img width="514" alt="seam11" src="https://user-images.githubusercontent.com/96831510/200144452-6f962234-49ea-4d39-9ed6-cbf7c9f2bb01.png">
 
-![Uploading figma12.png…]()
+<img width="376" alt="figma12" src="https://user-images.githubusercontent.com/96831510/200144525-bec10b75-4f76-4564-81f3-c41949d3fbe7.png">
 
+![Uploading figma12.png…]()
+<img width="514" alt="seam11" src="https://user-images.githubusercontent.com/96831510/200144532-6e9e1740-f6ef-4f13-8b3d-e1cf2c40ad30.png">
 
