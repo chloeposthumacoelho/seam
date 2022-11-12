@@ -88,3 +88,4 @@ Mobile: This app is targeted for mobile IOS devices, however it can easily be im
 <img width="514" alt="seam11" src="https://user-images.githubusercontent.com/96831510/200144532-6e9e1740-f6ef-4f13-8b3d-e1cf2c40ad30.png">
 
 ![CCF2300B-EAD0-47FE-9387-4964D5065745_1_102_o](https://user-images.githubusercontent.com/96831510/201456754-9e96b3c0-209c-45f5-b951-daa8d2a24ccc.gif)
+![CCF2300B-EAD0-47FE-9387-4964D5065745_1_102_o](https://user-images.githubusercontent.com/96831510/201457234-f79951cd-7983-4224-a021-da53d8a07b8f.jpeg)
